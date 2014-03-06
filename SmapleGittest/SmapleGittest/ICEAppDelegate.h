@@ -7,13 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
-//This change is made from Addd channel branch
 
 @interface ICEAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
 
 @end
-
-
-//This change is made on sprint4changes branch
+//This is the change done on Addchannel branch
